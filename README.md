@@ -1,3 +1,6 @@
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/postmessageaddon)
+[![Stars on Vaadin Directory](https://img.shields.io/vaadin-directory/star/postmessageaddon.svg)](https://vaadin.com/directory/component/postmessageaddon)
+
 ## PostMessageAddon - an add-on for Vaadin Framework v7 for using html5's window.postMessage
 
 [Read about window.postMessage](https://developer.mozilla.org/en-US/docs/DOM/window.postMessage),
